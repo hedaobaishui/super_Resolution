@@ -1,3 +1,7 @@
+
+Branch  of (SRFeat) https://github.com/HyeongseokSon1/SRFeat
+
+Just for learning GAN.
 # SRFeat: Single Image Super-Resolution with Feature Discrimination
 This is the implementation of the models and source code for the "SRFeat: Single Image Super-Resolution with Feature Discrimination", ECCV2018.
 
